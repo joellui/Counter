@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Counter</string>
+    <string name="refresh">Refresh</string>
+    <string name="tap_counter">Tap Counter</string>
+    <string name="minus">Minus</string>
+    <string name="_0">0</string>
+</resources>
